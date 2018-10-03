@@ -1,0 +1,9 @@
+SOFTWARE ENGINEERING ISSUES
+
+Initially I felt really hard in understanding the project. I gave many reads to understand the zero and one address instructions. I started with taking few examples and understanding how it works in the assembly level. I was confused on starting off with the coding as I could see many different ways of programming the assignment. But later I followed a flow chart where I started with System module followed by Loader, Cpu, Memory and Error Handler modules. There were many instances where i was struck with many errors and it took forever time to debug those. And there were also many cases where I missed out with many constraints and had to go back again in order to rectify them to resolve errors. After completing my program with correct outputs, it took sometime for me to write my own user job as i had to go in depth with the assembly level understanding. 
+
+I have used JAVA programming language, Intellij IDE, VIM editor for my assignment.
+Approximately there are about 800 lines of coding, which consists of 700 lines of coding and probably 100 lines of comments.
+There are five classes, eleven functions.
+I approximately spent 4 days to code this assignment.
+I would suggest JAVA programming for this assignment as it an object oriented programming language.

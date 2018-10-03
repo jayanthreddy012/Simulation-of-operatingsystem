@@ -1,0 +1,74 @@
+SOFTWARE ENGINEERING ISSUES
+
+1. GENERAL APPROACH TO THE PROBLEM:
+
+I felt comfortable with the project after completing my phase 2. In this phase it took me lot of time to understand the
+program manager and its functionality. I have approached the problem by breaking it down the phase to several modules.
+This phase nedds lots to be modified than the other phase. we have to introduce a program manager which schedules the jobs
+that are in the system. I started my coding with designing the program manager first then pushing all the job related variables
+to PCB, thereby allowing every process to have its own share of variables. It took me five days to code this phase.
+Solving tb+error part was a bit hard and consumed lot of time.
+
+2. LIST OF UTILITIES USED.
+
+I have used IntelliJ IDE to code and have used java programming language.
+
+3. BULK COMPLEXITIES OF SIMULATED PROGRAM:
+
+ (1). Total no of lines of code : 2,304
+     (a). Declarations : 256
+     (b). Comment lines: 220
+     (c). Actual code  : 1828
+ (2). Number of decisions : 92
+ (3). Methods : 19
+ (4). No of classes : 11
+
+ a. MODULE : SYSTEM
+     (1). Declarations: 25
+     (2). comment lines 20
+     (3). No of methods 2
+     (4). Total line of code : 747
+  b. MODULE : CPU
+      (1). Declarations : 19
+      (2). comment lines: 6
+      (3).Executables    : 500
+      (4). Methods : 6
+      (5). Total line of code : 820
+   c. MODULE : DISK
+      (1). Declarations : 5
+      (2). comments : 5
+      (3). Methods : 1
+      (4). Total line of code : 31
+    d. MODULE : LOADER
+       (1). Declarations : 7
+        (2). comments : 4
+        (3). Methods : 1
+        (4). Total line of code : 80
+     e. MODULE : MEMORY
+         (1). Declarations : 6
+         (2). comments : 5
+          3). Methods : 1
+         (4). Total line of code : 63
+     f. MODULE : OUTPU
+     TSPOOLING
+         (1). Declarations : 8
+         (2). comments : 7
+          3). Methods : 3
+         (4). Total line of code : 339
+     g. MODULE : FAULTHANDLER
+         (1). Declarations : 11
+         (2). comments : 14
+          3). Methods : 2
+         (4). Total line of code : 194
+     h. MODULE : PCB
+         (1). Declarations : 11
+         (2). comments :18
+          3). Methods : 0
+         (4). Total line of code : 78
+
+
+The operating system I simulated is portable to different architectures and operating systems as
+I chose Java which is machine independent. I would highly recommend JAVA programming for this assignment as it an
+object oriented programming language which has more benefits like modularity as it allows to add more functionality
+in future as discussed above.
+

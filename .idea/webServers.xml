@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e8a5741f-a841-4f51-8e90-b3062eaff069" name="csx0.okstate,edu" url="http://csx0.cs.okstate.edu">
+        <fileTransfer host="csx0.cs.okstate.edu" port="22" rootFolder="/home/jbujula" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
